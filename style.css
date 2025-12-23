@@ -1,0 +1,3 @@
+.topic-games::before {
+  content: "🎮 "; /* Inserts a game controller emoji before the text */
+}
